@@ -1,0 +1,6 @@
+library(shiny)
+library(shinydashboard)
+source("./server.R")
+source("./dashboard.R")
+shinyApp(ui = ui_dash , server = server)
+runApp(appDir = getwd())

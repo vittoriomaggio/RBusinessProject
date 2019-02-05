@@ -1,0 +1,70 @@
+.my_row1 {
+  margin-top: 1%;
+}
+.my_row2 {
+  margin-top: 5%;
+}
+
+.h3, h3 {
+  font-size: 24px;
+  margin-left: 2%;
+}
+
+hr {
+  width: 96%;
+  margin-left: 2%;
+  margin-top: 0%;
+  border-top: 1px solid #158a8a;
+}
+
+
+#sk_psx, #ku_psx {
+  width: 96%;
+}
+#sk_axp, #ku_axp {
+  width: 96%;
+}
+#sk_ko, #ku_ko {
+  width: 96%;
+}
+#sk_khc, #ku_khc {
+  width: 96%;
+}
+#sk_wfc, #ku_wfc {
+  width: 96%;
+}
+#sk_usb, #ku_usb {
+  width: 96%;
+}
+#sk_ibm, #ku_ibm {
+  width: 96%;
+}
+
+
+#news1_psx, #news2_psx, #news3_psx, #news4_psx, #news5_psx  {
+  width: 96%;
+}
+
+#news1_axp, #news2_axp, #news3_axp, #news4_axp, #news5_axp  {
+  width: 96%;
+}
+
+#news1_ko, #news2_ko, #news3_ko, #news4_ko, #news5_ko  {
+  width: 96%;
+}
+
+#news1_khc, #news2_khc, #news3_khc, #news4_khc, #news5_khc  {
+  width: 96%;
+}
+
+#news1_wfc, #news2_wfc, #news3_wfc, #news4_wfc, #news5_wfc  {
+  width: 96%;
+}
+
+#news1_usb, #news2_usb, #news3_usb, #news4_usb, #news5_usb  {
+  width: 96%;
+}
+
+#news1_ibm, #news2_ibm, #news3_ibm, #news4_ibm, #news5_ibm  {
+  width: 96%;
+}
