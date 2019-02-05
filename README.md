@@ -5,4 +5,4 @@ The project consists on selecting some stocks and analyzing them with R. The ana
 
 - The complete analysis is reported in the file: 'report.pdf'.
 - The R code of the analysis is in the 'data' directory.
-- To run the webapp, open in RStudio (or other) the file 'app.R' and run him.
+- To run the webapp, open in RStudio (or other) the file 'app.R' and run it.
